@@ -1,33 +1,20 @@
-node_modules
-# Astro
+# build output
+dist/
+
+# generated types
 .astro/
 
-# Typescript
-*.tsbuildinfo
-*.ts.map
+# dependencies
+node_modules/
 
-# Build output
-dist/
-.output/
-
-# Dependencies
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
-
-# Logs
-logs
-*.log
+# logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Environment variables
+
+# environment variables
 .env
 .env.production
 
