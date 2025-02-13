@@ -1,0 +1,21 @@
+---
+title: "CONFERENCES AND TALKS"
+type: "conferences"
+entries:
+  - year: "2023"
+    content: "Phonetic integration in Heritage Korean language-mixing. Presented at the 20th International Congress of the Phonetic Sciences. Prague, Czech Republic."
+  - year: "2023"
+    content: "\"To -or or not to -or\": Canadian English Word Frequency and Spelling Variation. Presented as a poster at the Canadian Linguistic Association at Congress 2023. York University, Toronto."
+  - year: "2021"
+    content: "The Phonetic Profile of Korean Honorifics: Exploring suprasegmental cues of formality in both production and perception. Presented at In-Group, Linguistics Department, University of Hawai'i at Mānoa, Honolulu, Hawai'i"
+  - year: "2021"
+    content: "Sound Symbolism in Electric, Rock, and Ground-type Pokémon Names. Presented virtually at the Canadian Linguistic Association at Congress 2021."
+  - year: "2020"
+    content: "Game-play Methodology and the Documentation of Prosody and Intonation in Kwak'wala (with Emily Elfner). Presented at the Canadian Linguistic Association at Congress 2020 (online)"
+  - year: "2020"
+    content: "Intonation in Thai-Accented English. Presented at the 13th Toronto Undergraduate Linguistics Conference, Toronto, ON."
+  - year: "2019"
+    content: "	Kwak'wala Langauge Documentation: Intonation (with Emily Elfner). Poster session presented at the York University Dean’s Award for Research Excellence Ceremony, Toronto, ON."
+  - year: "2019"
+    content: "Guess Who? Game-play, Questions, and Intonation in Kwak’wala (with Emily Elfner and Patricia Shaw). Presented at the University of Toronto Summer Phonology Forum, Toronto, ON"
+---
