@@ -7,7 +7,7 @@ entries:
   - year: "2023"
     content: "\"To -or or not to -or\": Canadian English Word Frequency and Spelling Variation. Presented as a poster at the Canadian Linguistic Association at Congress 2023. York University, Toronto."
   - year: "2021"
-    content: "The Phonetic Profile of Korean Honorifics: Exploring suprasegmental cues of formality in both production and perception. Presented at In-Group, Linguistics Department, University of Hawai'i at Mānoa, Honolulu, Hawai'i"
+    content: "The Phonetic Profile of Korean Honorifics: Exploring suprasegmental cues of formality in both production and perception. Presented at In-Group, Department of Linguistics, University of Hawai'i at Mānoa, Honolulu, Hawai'i"
   - year: "2021"
     content: "Sound Symbolism in Electric, Rock, and Ground-type Pokémon Names. Presented virtually at the Canadian Linguistic Association at Congress 2021."
   - year: "2020"

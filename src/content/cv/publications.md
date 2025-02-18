@@ -1,5 +1,5 @@
 ---
-title: "PROCEEDINGS"
+title: "PUBLICATIONS AND PROCEEDINGS"
 type: "publications"
 entries:
   - year: "2023"
